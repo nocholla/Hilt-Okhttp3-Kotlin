@@ -1,4 +1,4 @@
-package com.nocholla.hilt.di.hilt.okhttp3.ui.theme
+package com.nocholla.hilt.di.hilt.okhttp3.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

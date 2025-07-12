@@ -1,4 +1,4 @@
-package com.nocholla.hilt.di.hilt.okhttp3
+package com.nocholla.hilt.di.hilt.okhttp3.presentation.view
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.nocholla.hilt.di.hilt.okhttp3.ui.theme.HiltOkhttp3Theme
+import com.nocholla.hilt.di.hilt.okhttp3.presentation.theme.HiltOkhttp3Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
