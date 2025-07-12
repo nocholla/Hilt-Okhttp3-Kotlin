@@ -1,4 +1,4 @@
-# Tasks List App : Hilt / Okhttp3 / Coroutines / Kotlin / Clean Architecture
+# Tasks List : Hilt / Okhttp3 / Coroutines / Kotlin / Clean Architecture
 📦 Hilt Dependency Injection Sample – Android A modern Android project demonstrating Hilt for dependency injection using Kotlin, Jetpack libraries, and clean architecture principles.
 
 🛠️ Features
