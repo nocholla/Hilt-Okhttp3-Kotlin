@@ -1,4 +1,4 @@
-# Tasks List : Clean Architecture / Hilt DI / Okhttp3 / Coroutines / Jetpack Compose UI / State Management
+# Tasks List : Clean Architecture / Hilt DI / Okhttp3 / Coroutines / Jetpack Compose UI / Themes / State Management
 
 📦 Hilt Dependency Injection – Android A modern Android project demonstrating Hilt for dependency injection using Kotlin, Jetpack libraries, and clean architecture principles.
 
@@ -18,9 +18,23 @@
 
 ✅ Clean separation of concerns
 
-🚀 Tech Stack
+🚀 Tech Stack : Layer Tools / Libs Used 
 
-Layer Tools/Libs Used Dependency Injection Hilt (Jetpack) UI Jetpack Compose / XML + ViewModel Networking OkHttp Local DB Room Async Coroutines + Flow Architecture MVVM + Repository
+Dependency Injection - Hilt 
+
+(Jetpack) UI - Jetpack Compose 
+
+ViewModel 
+
+Networking 
+
+OkHttp  
+
+Async Coroutines + Flow Architecture 
+
+MVVM 
+
+Repository
 
 🧪 Testing
 
