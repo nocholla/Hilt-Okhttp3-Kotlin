@@ -85,11 +85,15 @@ class TaskViewModel @Inject constructor(
                     }
                 }.onFailure { e ->
                     _uiState.update {
-                        it.copy(error = e.localizedMessage ?: "Error toggling task", isLoading = false)
+                        it.copy(
+                            error = e.localizedMessage ?: "Error toggling task", isLoading = false
+                        )
                     }
                 }
             } else {
-                _uiState.update { it.copy(error = "Task not found for toggling", isLoading = false) }
+                _uiState.update {
+                    it.copy(error = "Task not found for toggling", isLoading = false)
+                }
             }
         }
     }
